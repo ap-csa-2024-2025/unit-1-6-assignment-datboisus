@@ -12,9 +12,5 @@ public class Problem2
         int num2rounded = (int) num2;
         System.out.println(num1rounded);
         System.out.println(num2rounded);
-
-
-
-        
     }
 }
